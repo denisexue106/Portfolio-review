@@ -9,6 +9,7 @@ The review is password protected, and the password comes with the link I send. T
 page holds the deck encrypted, so nothing in this repository is readable without it.
 
 - Arrow keys or the dots on the right move between slides.
+- Press `N` to open the speaker notes in their own window.
 - Press `E` for Edit mode, where each case study can be set to Deep, Quick or Off.
 - A link can set that for you: `?deep=form&quick=business` shows Form Unification in
   depth and a quick look at Business Listing. The keys are `form`, `branding` and
